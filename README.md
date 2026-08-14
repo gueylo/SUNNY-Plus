@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Replace this with your app's actual logo once you have it -->
-  <img src="https://via.placeholder.com/150x150?text=SUNNY%2B+Logo" alt="Sunny+ Logo" width="150"/>
+  <img src="assets/logo.png" alt="Sunny+ Logo" width="150"/>
 
   # 🎧 SUNNY+
 
@@ -29,12 +28,10 @@
 
 ## 📸 Screenshots
 
-*(I left placeholders here. Once you send me the images, we can update these links!)*
-
-| Home Screen | Player View | Widgets |
+| Home Screen | Player View | Artist View |
 | :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/250x500?text=Home+Screen" width="250"/> | <img src="https://via.placeholder.com/250x500?text=Player+View" width="250"/> | <img src="https://via.placeholder.com/250x500?text=Widgets" width="250"/> |
-| *Discover new music and your favorites.* | *Full control with a beautiful player interface.* | *Control music right from your home screen.* |
+| <img src="assets/home.jpg" width="250" alt="Home Screen"/> | <img src="assets/player.jpg" width="250" alt="Player View"/> | <img src="assets/artist.jpg" width="250" alt="Artist View"/> |
+| *Discover new music and your favorites.* | *Full control with a beautiful player interface.* | *Browse top tracks and albums from your favorite artists.* |
 
 ---
 
