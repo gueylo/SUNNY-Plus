@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Sunny+ Logo" width="150"/>
+  <img width="400" height="400" alt="logo" src="https://github.com/user-attachments/assets/4326be60-b995-4014-bc46-c53aa173ea59" />
 
   # 🎧 SUNNY+
 
@@ -30,10 +30,12 @@
 
 | Home Screen | Player View | Artist View |
 | :---: | :---: | :---: |
-| <img src="assets/home.jpg" width="250" alt="Home Screen"/> | <img src="assets/player.jpg" width="250" alt="Player View"/> | <img src="assets/artist.jpg" width="250" alt="Artist View"/> |
+  <img width="540" height="1199" alt="Screenshot_20260814-130720~2" src="https://github.com/user-attachments/assets/af4e71de-0abc-4d9c-b7e4-23a108fa7f02" />| <img width="540" height="1199" alt="Screenshot_20260814-130830~2" src="https://github.com/user-attachments/assets/861ca3b5-a2f8-41df-bd22-d9efe0bd1a33" /> | <img width="540" height="1199" alt="Screenshot_20260814-130807~2" src="https://github.com/user-attachments/assets/6ae4f202-65d8-41ce-9c5a-19b0c2f8e50e" />|
 | *Discover new music and your favorites.* | *Full control with a beautiful player interface.* | *Browse top tracks and albums from your favorite artists.* |
 
 ---
+
+
 
 ## 🚀 How to Download & Install
 
