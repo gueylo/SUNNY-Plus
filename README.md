@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400" height="400" alt="logo" src="https://github.com/user-attachments/assets/4326be60-b995-4014-bc46-c53aa173ea59" />
+  <img width="380" height="380" alt="logo" src="https://github.com/user-attachments/assets/4326be60-b995-4014-bc46-c53aa173ea59" />
 
   # 🎧 SUNNY+
 
