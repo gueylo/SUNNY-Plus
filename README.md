@@ -54,5 +54,5 @@ You can download the latest version of **SUNNY+** directly from this repository!
 If you encounter any bugs, have feature requests, or just want to say hi, feel free to [open an issue](https://github.com/gueylo/MOBILE-SUNNY-/issues) in this repository!
 
 <div align="center">
-  Made with ❤️ by [gueylo](https://github.com/gueylo)
+  Made with ❤️ by [Gueylo](https://github.com/gueylo)
 </div>
