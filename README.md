@@ -17,7 +17,6 @@
 ## ✨ Features
 
 - **🎵 Advanced Audio Player**: High-quality audio playback with a sleek, intuitive interface.
-- **📺 YouTube Integration**: Seamlessly stream and discover music via YouTube.
 - **📱 Home Screen Widgets**: Control your music right from your home screen with beautifully designed widgets.
 - **❤️ Favorites**: Easily save your top tracks and organize them exactly how you like.
 - **🎤 Popular Artists**: Browse and discover trending artists and new releases.
